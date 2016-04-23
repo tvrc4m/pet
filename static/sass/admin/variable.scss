@@ -1,0 +1,14 @@
+$body-bg-color : #FFFFFF;
+$gray-middle :#DDDDDD;
+$hover-bg-color : #FFFFCB;
+
+$success-bg-color: #EAF7D9;
+$success-border-color:#BBDF8D;
+
+$warning-bg-color: #FFD1D1;
+$warning-border-color:#F8ACAC;
+
+$attention-bg-color: #FFF5CC;
+$attention-border-color:#F2DD8C;
+
+$notices :(("success", $success-bg-color, $success-border-color),("warning", $warning-bg-color, $warning-border-color));

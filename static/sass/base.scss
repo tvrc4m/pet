@@ -1,0 +1,14 @@
+@import "compass/reset";
+@import "compass/utilities";
+@import "compass/css3";
+
+$flags-spacing :5px;
+
+$flags-sprite-dimensions: true;
+
+@import "flags/*.png";
+// @include all-flags-sprites;
+
+.flag{
+	@include flags-sprite(zw);
+}
