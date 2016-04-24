@@ -5,7 +5,9 @@ define("HOME",dirname(__FILE__));
 
 define('IS_ADMIN',true);
 
+include_once(ROOT.'/application/config/config.php');
 include_once(ROOT.'/library/core/config.php');
+include_once(CORE.'startup.class.php');
 
 // ini_set('session.cookie_domain',COOKIE_DOMAIN);
 session_set_cookie_params(7200);
