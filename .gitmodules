@@ -7,3 +7,9 @@
 [submodule "static/font-awesome"]
 	path = static/font-awesome
 	url = https://github.com/FortAwesome/Font-Awesome.git
+[submodule "static/jquery"]
+	path = static/jquery
+	url = https://github.com/jquery/jquery.git
+[submodule "static/bootstrap"]
+	path = static/bootstrap
+	url = https://github.com/twbs/bootstrap.git

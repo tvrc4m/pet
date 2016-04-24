@@ -14,7 +14,7 @@
     <style>
     @import url("http://tango.4coding.net/sites/all/modules/ctools/css/ctools.css?o43eow");
     </style>
-    <link type="text/css" rel="stylesheet" href="/static/company/css/bootstrap.min.css" media="all">
+    <link type="text/css" rel="stylesheet" href="/static/bootstrap/dist/css/bootstrap.min.css" media="all">
     <link type="text/css" rel="stylesheet" href="/static/font-awesome/css/font-awesome.min.css" media="all">
     <link type="text/css" rel="stylesheet" href="/static/owlcarousel/dist/owl.carousel.min.js" media="all">
     <link type="text/css" rel="stylesheet" href="/static/company/css/animate.min.css" media="all">
