@@ -1,3 +1,9 @@
 [submodule "library"]
 	path = library
 	url = /slamdunk/yicker/
+[submodule "static/owlcarousel"]
+	path = static/owlcarousel
+	url = https://github.com/OwlCarousel2/OwlCarousel2.git
+[submodule "static/font-awesome"]
+	path = static/font-awesome
+	url = https://github.com/FortAwesome/Font-Awesome.git
