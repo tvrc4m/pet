@@ -16,7 +16,7 @@
     </style>
     <link type="text/css" rel="stylesheet" href="/static/bootstrap/dist/css/bootstrap.min.css" media="all">
     <link type="text/css" rel="stylesheet" href="/static/font-awesome/css/font-awesome.min.css" media="all">
-    <link type="text/css" rel="stylesheet" href="/static/owlcarousel/dist/owl.carousel.min.js" media="all">
+    <link type="text/css" rel="stylesheet" href="/static/owlcarousel/dist/assets/owl.carousel.min.css" media="all">
     <link type="text/css" rel="stylesheet" href="/static/company/css/animate.min.css" media="all">
     <link type="text/css" rel="stylesheet" href="/static/company/css/tooltipster.css" media="all">
     <link type="text/css" rel="stylesheet" href="/static/company/css/magnific-popup.css" media="all">
