@@ -13,6 +13,7 @@ define('HOME',ROOT.'/shop');
 $folder=isset($_REQUEST['f'])?strtolower($_REQUEST['f']).'/':'common/';
 
 include_once(ROOT.'/library/core/config.php');
+include_once(ROOT.'/application/config/config.php');
 
 // ini_set('session.cookie_domain',COOKIE_DOMAIN);
 session_set_cookie_params(1800, '/');

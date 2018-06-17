@@ -17,6 +17,6 @@ class AdminAdmin extends Medium{
 
 		$uid=$data['uid'];
 
-		return D('admin/admin")->getAdminByID($uid);
+		return D('admin/admin')->getAdminByID($uid);
 	}
 }
